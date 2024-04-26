@@ -1,0 +1,7 @@
+monero/*
+wallet/*
+__pycache__/
+
+TODO.md
+
+*.xcf
