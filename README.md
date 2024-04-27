@@ -54,7 +54,7 @@ Play a custom sound effect, when notification pops up.
 
 ## Demo
 
-Soon™
+[streamer_donation_wallet_demo.webm](https://github.com/SNeedlewoods/xmr_tx_notify/assets/43108541/cfed23bf-c040-4eec-8f5c-c4f1046e1b8e)
 
 
 ## Supported OSs
